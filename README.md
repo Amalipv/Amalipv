@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Amali Pugazhendi (@Amalipv)
-- 👀 I like to develop applications using ReactJS, Java and Python.
-- Interested in learning GraphQL
-- 🌱 I’m currently learning Django
+- 👀 I am a Full stack developer with hands-on knowledge in Go, Svelte, Java, React.js, Express, and MySQL
 - 📫 Reach me at spv.amali@gmail.com
 
 <!---
